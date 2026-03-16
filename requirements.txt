@@ -1,0 +1,4 @@
+pdfplumber
+gspread
+google-auth-oauthlib
+requests
