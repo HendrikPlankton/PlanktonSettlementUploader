@@ -5,8 +5,3 @@ service_account.json
 token.json
 *.pdf
 .env
-bin/
-.buildozer/
-*.app
-*.ipa
-*.apk

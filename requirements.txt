@@ -1,7 +1,5 @@
-kivy
 pdfplumber
 gspread
 google-auth
 google-auth-oauthlib
 requests
-plyer
